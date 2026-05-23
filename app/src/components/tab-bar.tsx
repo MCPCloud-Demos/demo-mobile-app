@@ -1,0 +1,1 @@
+// add accessibilityLabel to the second tab's icon
