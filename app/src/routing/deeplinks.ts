@@ -1,0 +1,1 @@
+// register universal links for marketing email CTAs
